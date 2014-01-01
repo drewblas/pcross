@@ -1,0 +1,14 @@
+{
+  "common": [
+    "model/*.js",
+    "viewModel/*.js",
+    "style/*.css",
+    "app.js",
+    "index.html"
+  ],
+  "windowsphone":[
+    "style-windowsphone/*.css",
+    "app-windowsphone.js",
+    "index-windowsphone.html"
+  ]
+}
